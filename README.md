@@ -1,6 +1,3 @@
-# PostgreSQL
-Just for studies, feel free to take a look. 
--------------------------------------------
 # PostgreSQL Notes
 
 ## 🧱 1. DDL – Data Definition Language
